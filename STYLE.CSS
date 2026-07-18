@@ -12,3 +12,10 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
+
+.image-section{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
