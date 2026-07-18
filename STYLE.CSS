@@ -1,15 +1,40 @@
 body{
-    background-color: white;
+    background-image: url(view\ mt.kenya.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .gallery h1{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    color: white;
 }
 
 .gallery p{
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
+    color: white;
+}
+
+.navigation-buttons{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 10%;
+}
+
+.gallery ul{
+    color: white;
+}
+
+.prev-btn,
+.next-btn{
+    text-decoration: none;
+    color: white;
+    background-color:darkgray ;
+
+    padding: 15px 30px;
+    border-radius: 30px;
+    transition: .3s ease;
 }
 
