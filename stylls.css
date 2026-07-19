@@ -17,3 +17,33 @@ body{
     justify-content: center;
     padding: 25px;
 }
+
+.prev-btn{
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+
+    text-decoration: none;
+    padding: 12px 24px;
+    background-color: #d2b48c;
+
+    color: white;
+    border-radius: 30px;
+    font-weight: bold;
+    transform: 0.5s ease;
+}
+
+.next-btn{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+
+    text-decoration: none;
+    padding: 12px 24px;
+    background-color: #d2b48c;
+
+    color: white;
+    border-radius: 30px;
+    font-weight: bold;
+    transform: 0.5s ease;
+}
