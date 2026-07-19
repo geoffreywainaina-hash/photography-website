@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # photography-website
 =======
 # PHOOTGRAPH WEBSITE
@@ -12,4 +12,4 @@ an interactive gallery, elegant navigation, and a modern design for showcasing p
 - Navigation buttons
 - Hero image section
 - Image hover effects
->>>>>>> c28d57c (feat:change file name)
+
